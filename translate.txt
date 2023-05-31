@@ -1,3 +1,0 @@
-fr: Bonjour, je m'appelle Damian
-ja: こんにちは、私の名前はダミアンです
-ar: مرحبا اسمي داميان
